@@ -1,0 +1,6 @@
+{
+  "name": "AI Detective: Who Is Lying?",
+  "description": "An immersive detective mystery game where you interrogate AI suspects to solve Case 001: The Blackwood Diamond.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
